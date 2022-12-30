@@ -57,12 +57,12 @@ class MyApp extends StatelessWidget {
 
 
 #### Dummy Login Page(For name & userId)
-<img src="https://user-images.githubusercontent.com/120676400/210108816-7fab4fe4-7f84-496b-979d-bd0757e07407.png" width="360" height="800">
+<img src="https://user-images.githubusercontent.com/120676400/210108816-7fab4fe4-7f84-496b-979d-bd0757e07407.png" width="360" height="780">
 
 
 #### HomePage
-<img src="https://user-images.githubusercontent.com/120676400/210108893-f646f118-b437-4291-ab2d-33561d6411e6.png" width="360" height="800">
+<img src="https://user-images.githubusercontent.com/120676400/210108893-f646f118-b437-4291-ab2d-33561d6411e6.png" width="360" height="780">
 
 
 #### Call Screen (Triggered by 'Join Call' button)
-<img src="https://user-images.githubusercontent.com/120676400/210108975-b1eb2480-9e2e-4a25-a110-a9182da06d47.png" width="360" height="800">
+<img src="https://user-images.githubusercontent.com/120676400/210108975-b1eb2480-9e2e-4a25-a110-a9182da06d47.png" width="360" height="780">
